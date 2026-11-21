@@ -1,0 +1,3 @@
+-r requirements.txt
+# TensorFlow has Python/OS-specific wheels. Prefer Python 3.11/3.12.
+tensorflow>=2.16,<2.22
